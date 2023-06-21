@@ -1,2 +1,3 @@
 # ShadowverseEnvironmentImitate
 模拟yingzhishi环境pk的代码
+目前还仅仅处在新建文件夹的状态
